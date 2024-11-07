@@ -1,6 +1,7 @@
 # odoo
 odoo app v17
 Install docker and docker-compose and nginx+ssl yoursel
+
 mkdir odoo
 
 vi dockercompose.yaml
